@@ -92,7 +92,7 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Nahom Zerihun Demissie 💻**
+👤 **Esther Mawioo 💻**
 
 - GitHub: [@mumo-esther](https://github.com/mumo-esther/)
 
